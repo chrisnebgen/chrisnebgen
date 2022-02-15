@@ -4,9 +4,9 @@
 
 ### About me
 
-Professional Software Engineer and Full-stack Developer specializing in PHP, JavaScript, MongoDB, Express.js, Angular, React.js, Node.js, HTML5, CSS, SASS, and AWS. Below, in the *Toolbox* section, you can find a list of technologies I have professional experience with.
+Professional Software Engineer and Full-stack Developer specializing in PHP, JavaScript, MongoDB, Express.js, Angular, React.js, Node.js, HTML5, CSS, SASS, and AWS. Below, in the [__Toolbox__](#toolbox) section, you can find a list of technologies I have professional experience with.
 
-I am passionate about technology and its various applications. I enjoy talking tech, as well as learning new things. If you're interested in chatting, check out my *socials* below to reach out!
+I am passionate about technology and its various applications. I enjoy talking tech, as well as learning new things. If you're interested in chatting, check out my [__Socials__](#socials) below to reach out!
 
 ---
 
