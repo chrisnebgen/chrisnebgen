@@ -42,4 +42,4 @@ Below are the technologies I am currently learning and hope to incorporate in th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnebgen&show_icons=true&count_private=true&theme=dark&layout=compact)](htps://github.com/anuraghazra/github-readme-stats)
 
-[![Chris's Github stats](https://github-reaadme-stats.vercel.app/api?username=chrisnebgen&theme=dark&count_private=true&hide=stars,issues&show_icons=true)](https;//github.com/anuraghazra/github-readme-stats)
+[![Chris's Github stats](https://github-readme-stats.vercel.app/api?username=chrisnebgen&theme=dark&count_private=true&hide=stars,issues&show_icons=true)](https;//github.com/anuraghazra/github-readme-stats)
